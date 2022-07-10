@@ -7,9 +7,11 @@
 - 💬 Ask me about **HTML,CSS,C,C++,DJANGO,PYTHON**
 
 - 📫 How to reach me **smnellaiappan06@gmail.com**
+<img align="left" alt="coding" width="80" src="https://www.animatedimages.org/data/media/1635/animated-walking-image-0006.gif">
 
-- ⚡ Fun fact **i think I'm not a Performer I'm Archiever**
-
+<h3>Fun fact</h3>🛰️ <b>I think...! 🏆I'm not a Performer I'm Archiever<b>🏆
+</br>
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
