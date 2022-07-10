@@ -11,7 +11,7 @@
 
 <h3>Fun fact</h3>🛰️ <b>I think...! 🏆I'm not a Performer I'm Achiever<b>🏆
 
-<h3 align="left">Connect with me :<img align="middle" alt="coding" width="70" src="https://c.tenor.com/n2Pnf0j5PlIAAAAC/mail-download.gif"></h3>
+<h3 align="left">Connect with me :<img align="middle" alt="coding" width="50" src="https://c.tenor.com/n2Pnf0j5PlIAAAAC/mail-download.gif"></h3>
 <p align="left">
 
 
