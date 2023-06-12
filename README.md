@@ -12,7 +12,7 @@
 <img align="left" alt="coding" width="80" src="https://www.animatedimages.org/data/media/1635/animated-walking-image-0006.gif">
 <h3>Fun fact</h3>🛰️ <b>I think...! 🏆I'm not a Performer I'm Achiever<b>🏆
 
-<h3 align="left">Connect with me :    <img align="left" src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="36"/> <img alt="GitHub" src="https://img.shields.io/badge/-smnellaiappan06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></h3>
+<h3 align="left">Connect with me :    <img align="left" src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="36"/> <img alt="GitHub" src="https://img.shields.io/badge/-smnellaiappan01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></h3>
 
  <a href="https://github.com/nellaiappan01" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@nellaiappan01-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
