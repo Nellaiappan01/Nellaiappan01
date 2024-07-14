@@ -2,14 +2,14 @@
 <h1 align="center">
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>Hey! Nice to see you </h1>
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am <b>Mr.Nellaiappan! <b>A passionate Researcher - Data Science & Machine Learning <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am <b>Mr.Nellaiappan! <b>A passionate Researcher - Web Development<img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTJS,REDUX,DJANGO,PYTHON**
+- 💬 Ask me about **HTML,CSS,TAILWINDCSS,JAVASCRIPT,REACTJS,NEXTJS**
 <img align="left" alt="coding" width="80" src="https://www.animatedimages.org/data/media/1635/animated-walking-image-0006.gif">
 <h3>Fun fact</h3>🛰️ <b>I think...! 🏆I'm not a Performer I'm Achiever<b>🏆
 
